@@ -2,9 +2,6 @@
 
 [![Follow](https://img.shields.io/github/followers/zanyuanyang?label=FOLLOW&style=for-the-badge)](https://github.com/ZanyuanYang)
 [![HitCount](https://img.shields.io/github/watchers/ZANYUANYANG/ZANYUANYANG?label=WATCH&style=for-the-badge)](https://github.com/ZanyuanYang)
-[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jayingyoung)
-[![facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011389736236)
-
 
 Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 
