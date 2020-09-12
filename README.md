@@ -1,4 +1,4 @@
-<img alt="photo" width="100%" src="fengmian.jpg" />
+<img alt="photo" width="100%" src="https://ibb.co/WszmhHk" />
 </br>
 
 ### Hi there, I'm Zanyuan Yang - [杨赞远][website]  👋
