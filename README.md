@@ -20,7 +20,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 [<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/doodle/26/000000/instagram-new.png"/>][instagram]
 <a href="https://www.jayingyoung.com/photo/QRcode.jpg" ><img align="left" width="26px" src="https://img.icons8.com/dusk/26/000000/weixing.png"/></a>
 <a align="left" href="mailto:zayang@ucsd.com"><img width="30px" src="https://img.icons8.com/doodle/26/000000/email-sign.png"/></a>
-[<img align="left" alt="Zanyuan's Instagram" width="26px" src="src="https://img.icons8.com/doodle/26/000000/facebook-new.png"/>][https://www.facebook.com/profile.php?id=100011389736236]
+[<img align="left" alt="Zanyuan's facebook" width="26px" src="https://img.icons8.com/doodle/26/000000/facebook-new.png"/>][https://www.facebook.com/profile.php?id=100011389736236]
 <br />
 
 ### Languages and Tools:
