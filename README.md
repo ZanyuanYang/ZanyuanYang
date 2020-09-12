@@ -17,7 +17,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 
 ### Contact:
 
-[<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/doodle/26/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/doodle/26/000000/instagram--v1.png"/>][instagram]
 [<img align="left" alt="Zanyuan's facebook" width="26px" src="https://img.icons8.com/doodle/26/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="Zanyuan's QRCODE" width="26px" src="https://img.icons8.com/dusk/26/000000/weixing.png"/>][QRcode]
 <a align="left" href="mailto:zayang@ucsd.com"><img width="26px" src="https://img.icons8.com/doodle/26/000000/email-sign.png"/></a>
