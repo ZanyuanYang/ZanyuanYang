@@ -1,6 +1,6 @@
 ### Hi there, I'm Zanyuan Yang - [杨赞远][website]  👋
 
-[![HitCount](https://img.shields.io/github/watchers/ZanyuanYang/ZanyuanYang?label=Watch&style=for-the-badge)](https://github.com/ZanyuanYang)
+[![HitCount](https://img.shields.io/github/watchers/ZanyuanYang/ZanyuanYang?label=Watch&style=flat-square)](https://github.com/ZanyuanYang)
 [![Follow](https://img.shields.io/github/followers/ZanyuanYang?label=Follow&style=for-the-badge)](https://github.com/ZanyuanYang)
 
 
