@@ -1,7 +1,7 @@
 ### Hi there, I'm Zanyuan Yang - [杨赞远][website]  👋
 
 [<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/doodle/26/000000/instagram-new.png"/>][instagram]
-<a href="QRcode.jpg" ><img align="left" width="26px" src="https://img.icons8.com/wired/26/000000/weixing.png"/></a>
+<a href="https://www.jayingyoung.com/photo/QRcode.jpg" ><img align="left" width="26px" src="https://img.icons8.com/wired/26/000000/weixing.png"/></a>
 <a align="left" href="mailto:zayang@ucsd.com"><img width="30px" src="https://img.icons8.com/carbon-copy/26/000000/email.png"/></a>
 <br />
 
