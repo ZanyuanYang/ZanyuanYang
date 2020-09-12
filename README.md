@@ -30,10 +30,9 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 
 <br />
 <br />
-<a><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zanyuanyang&show_icons=true&include_all_commits=true&theme=Gradient" alt="zanyuan's github stats" /></a>
+<a><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zanyuanyang&show_icons=true&include_all_commits=true&theme=radical" alt="zanyuan's github stats" /></a>
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)]
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanyuanyang&langs_count=8" alt="Most Used Languages" /></a>
 
 
 
