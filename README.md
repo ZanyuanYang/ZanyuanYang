@@ -1,5 +1,4 @@
-
-<img src="https://i.ibb.co/TTv9tSm/41.png" alt="41" border="0" width="100%">
+<img src="https://i.ibb.co/PGS0QVM/41.png" alt="41" border="0" width="100%">
 </br>
 
 ### Hi there, I'm Zanyuan Yang - [杨赞远][website]  👋
