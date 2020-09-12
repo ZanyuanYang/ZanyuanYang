@@ -28,9 +28,8 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 <br />
 <br />
 
----
-[![Follow](https://img.shields.io/github/followers/zanyuanyang?label=Follow&style=flat-square)](https://github.com/ZanyuanYang)
-[![HitCount](https://img.shields.io/github/watchers/ZanyuanYang/ZanyuanYang?label=Watch&style=flat-square)](https://github.com/ZanyuanYang)
+[![Follow](https://img.shields.io/github/followers/zanyuanyang?label=FOLLOW&style=for-the-badge)](https://github.com/ZanyuanYang)
+[![HitCount](https://img.shields.io/github/watchers/ZANYUANYANG/ZANYUANYANG?label=WATCH&style=for-the-badge)](https://github.com/ZanyuanYang)
 
 
 
