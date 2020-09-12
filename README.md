@@ -19,8 +19,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 
 [<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/doodle/26/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="Zanyuan's QRcode" width="26px" src="https://img.icons8.com/dusk/26/000000/weixing.png"/>][https://www.jayingyoung.com/photo/QRcode.jpg]
-[<img align="left" alt="Zanyuan's facebook" width="26px" src="https://img.icons8.com/doodle/26/000000/facebook-new.png"/>][https://www.facebook.com/profile.php?id=100011389736236]
-[<img align="left" alt="Zanyuan's email" width="26px" src="https://img.icons8.com/doodle/26/000000/email-sign.png"/>][mailto:zayang@ucsd.com]
+[<img align="left" alt="Zanyuan's facebook" width="26px" src="https://img.icons8.com/doodle/26/000000/facebook-new.png"/>][facebook]
 <a align="left" href="mailto:zayang@ucsd.com"><img width="26px" src="https://img.icons8.com/doodle/26/000000/email-sign.png"/></a>
 <br />
 
@@ -43,3 +42,4 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 [website]: https://www.jayingyoung.com/
 [ucsdwebsite]: https://ucsd.edu/
 [instagram]: https://www.instagram.com/jayingyoung/
+[facebook]: https://www.facebook.com/profile.php?id=100011389736236/
