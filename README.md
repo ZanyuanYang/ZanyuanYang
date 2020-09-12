@@ -1,8 +1,5 @@
 ### Hi there, I'm Zanyuan Yang - [杨赞远][website]  👋
 
-[![Follow](https://img.shields.io/github/followers/zanyuanyang?label=Follow&style=flat-square)](https://github.com/ZanyuanYang)
-[![HitCount](https://img.shields.io/github/watchers/ZanyuanYang/ZanyuanYang?label=Watch&style=flat-square)](https://github.com/ZanyuanYang)
-
 
 [<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/doodle/26/000000/instagram-new.png"/>][instagram]
 <a href="https://www.jayingyoung.com/photo/QRcode.jpg" ><img align="left" width="26px" src="https://img.icons8.com/wired/26/000000/weixing.png"/></a>
@@ -30,6 +27,10 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 
 <br />
 <br />
+
+---
+[![Follow](https://img.shields.io/github/followers/zanyuanyang?label=Follow&style=flat-square)](https://github.com/ZanyuanYang)
+[![HitCount](https://img.shields.io/github/watchers/ZanyuanYang/ZanyuanYang?label=Watch&style=flat-square)](https://github.com/ZanyuanYang)
 
 
 
