@@ -1,3 +1,6 @@
+<img alt="photo" width="30%" src="fengmian.jpg" />
+</br>
+
 ### Hi there, I'm Zanyuan Yang - [杨赞远][website]  👋
 
 [![Follow](https://img.shields.io/github/followers/zanyuanyang?label=FOLLOW&style=for-the-badge)](https://github.com/ZanyuanYang)
