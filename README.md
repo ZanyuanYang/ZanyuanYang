@@ -46,4 +46,4 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 [instagram]: https://www.instagram.com/jayingyoung/
 [facebook]: https://www.facebook.com/profile.php?id=100011389736236/
 [QRcode]: https://www.jayingyoung.com/photo/QRcode.jpg/
-[linkedin]: https://www.linkedin.com/in/zanyuan-yang-0955001b8/
+[linkedin]: linkedin.com/in/zanyuan-yang-277562129
