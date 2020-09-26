@@ -15,6 +15,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 [<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/doodle/26/000000/instagram--v1.png"/>][instagram]
 [<img align="left" alt="Zanyuan's facebook" width="26px" src="https://img.icons8.com/doodle/26/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="Zanyuan's QRCODE" width="26px" src="https://img.icons8.com/dusk/26/000000/weixing.png"/>][QRcode]
+[<img align="left" alt="Zanyuan's linkedin" width="26px" src="https://img.icons8.com/doodle/26/000000/linkedin--v2.png"/>][linkedin]
 <a align="left" href="mailto:zayang@ucsd.com"><img width="26px" src="https://img.icons8.com/doodle/26/000000/email-sign.png"/></a>
 <br />
 
@@ -45,3 +46,4 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 [instagram]: https://www.instagram.com/jayingyoung/
 [facebook]: https://www.facebook.com/profile.php?id=100011389736236/
 [QRcode]: https://www.jayingyoung.com/photo/QRcode.jpg/
+[linkedin]:linkedin.com/in/zanyuan-yang-0955001b8
