@@ -28,6 +28,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 <img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="python" width="26px" src="https://img.icons8.com/color/26/000000/python.png"/>
 <img align="left" alt="java" width="26px" src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="react" width="26px" src="https://img.icons8.com/officexs/26/000000/react.png"/>
 
 <br />
 <br />
