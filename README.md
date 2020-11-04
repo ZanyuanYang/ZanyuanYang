@@ -36,6 +36,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 ---
 
 <a><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zanyuanyang&show_icons=true&include_all_commits=true&theme=radical" alt="zanyuan's github stats" /></a>
+![Zanyuan's github stats](https://github-readme-stats.vercel.app/api?username=zanyuanyang&show_icons=true&theme=radical)
 <br />
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanyuanyang&layout=compact" /></a>
 
