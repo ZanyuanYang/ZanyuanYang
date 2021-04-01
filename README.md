@@ -16,6 +16,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 [<img align="left" alt="Zanyuan's facebook" width="26px" src="https://img.icons8.com/doodle/26/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="Zanyuan's QRCODE" width="26px" src="https://img.icons8.com/dusk/26/000000/weixing.png"/>][QRcode]
 [<img align="left" alt="Zanyuan's linkedin" width="26px" src="https://img.icons8.com/doodle/26/000000/linkedin--v2.png"/>][linkedin]
+[<img align="left" alt="profolio" width="26px" src="https://img.icons8.com/plasticine/26/000000/resume-website.png"/>][website]
 <a align="left" href="mailto:zayang@ucsd.com"><img width="26px" src="https://img.icons8.com/doodle/26/000000/email-sign.png"/></a>
 <br />
 
@@ -29,6 +30,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 <img align="left" alt="python" width="26px" src="https://img.icons8.com/color/26/000000/python.png"/>
 <img align="left" alt="java" width="26px" src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="php" width="26px" src="https://img.icons8.com/offices/26/000000/php-logo.png"/>
+<img align="left" alt="profolio" width="26px" src="https://img.icons8.com/plasticine/26/000000/resume-website.png"/>
 
 <br />
 <br />
@@ -41,7 +43,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 
 
 
-[website]: https://www.jayingyoung.com/
+[website]: https://zanyuanyang.github.io/
 [ucsdwebsite]: https://ucsd.edu/
 [instagram]: https://www.instagram.com/jayingyoung/
 [facebook]: https://www.facebook.com/profile.php?id=100011389736236/
