@@ -13,7 +13,6 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 ### Contact:
 
 [<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/doodle/26/000000/instagram--v1.png"/>][instagram]
-[<img align="left" alt="Zanyuan's facebook" width="26px" src="https://img.icons8.com/doodle/26/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="Zanyuan's QRCODE" width="26px" src="https://img.icons8.com/dusk/26/000000/weixing.png"/>][QRcode]
 [<img align="left" alt="Zanyuan's linkedin" width="26px" src="https://img.icons8.com/doodle/26/000000/linkedin--v2.png"/>][linkedin]
 [<img align="left" alt="profolio" width="26px" src="https://img.icons8.com/plasticine/26/000000/resume-website.png"/>][website]
