@@ -8,7 +8,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 
 - 🏫 I’m currently an [UCSD][ucsdwebsite] student!
 - 🖥 I’m major in Computer Science 
-- 🛎 2020 Goals: World peace
+- 🛎 2021 Goals: World peace
 - 📷 Hobby: I love to taking picture
 
 ### Contact:
