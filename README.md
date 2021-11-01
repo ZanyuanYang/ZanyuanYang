@@ -6,7 +6,7 @@
 
 Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 
-- 🏫 I’m currently an [UCSD][ucsdwebsite] student!
+- 🏫 I was an [UCSD][ucsdwebsite] alumni student. Currently pursuing an MSCS at [Northeastern University(SV)][neuwebsite]!
 - 🖥 I’m major in Computer Science 
 - 🛎 2021 Goals: World peace
 - 📷 Hobby: I love to taking picture
@@ -45,6 +45,7 @@ Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
 
 [website]: https://zanyuanyang.github.io/
 [ucsdwebsite]: https://ucsd.edu/
+[neuwebsite]: https://www.northeastern.edu/
 [instagram]: https://www.instagram.com/jayingyoung/
 [facebook]: https://www.facebook.com/profile.php?id=100011389736236/
 [QRcode]: https://www.jayingyoung.com/photo/QRcode.jpg/
