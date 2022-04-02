@@ -3,9 +3,6 @@
 [![Follow](https://img.shields.io/github/followers/zanyuanyang?label=FOLLOW&style=for-the-badge)](https://github.com/ZanyuanYang)
 [![HitCount](https://img.shields.io/github/watchers/ZanyuanYang/zanyuanyang.github.io?style=for-the-badge)](https://github.com/ZanyuanYang/zanyuanyang.github.io)
 
-
-Hi, I'm Zanyuan Yang, a computer science student from China, now study at US
-
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student. Currently pursuing an MSCS at [Northeastern University(SV)][neuwebsite]!
 - 🖥 I’m major in Computer Science 
 - 🛎 2021 Goals: World peace
