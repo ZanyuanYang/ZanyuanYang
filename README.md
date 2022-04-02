@@ -1,9 +1,13 @@
-### Hi there, I'm Zanyuan Yang - [杨赞远][website]  👋
+<img align="right" src="https://user-images.githubusercontent.com/59616360/161402852-83573084-e896-4ed0-b3e3-60940bea41f6.png" width="400" height="400" />
+
+### <img src="https://user-images.githubusercontent.com/59616360/161402765-f2331137-4068-4a3b-ac32-980d0382b0c1.gif" width="50" height="50" /> Hi there, I'm Zanyuan Yang - [杨赞远][website] 
+
 
 [![Follow](https://img.shields.io/github/followers/zanyuanyang?label=FOLLOW&style=for-the-badge)](https://github.com/ZanyuanYang)
 [![HitCount](https://img.shields.io/github/watchers/ZanyuanYang/zanyuanyang.github.io?style=for-the-badge)](https://github.com/ZanyuanYang/zanyuanyang.github.io)
 
-- 🏫 I was an [UCSD][ucsdwebsite] alumni student. Currently pursuing an MSCS at [Northeastern University(SV)][neuwebsite]!
+- 🏫 I was an [UCSD][ucsdwebsite] alumni student. 
+- 🏫 Currently pursuing an MSCS at [Northeastern University][neuwebsite]!
 - 🖥 I’m major in Computer Science 
 - 🛎 2021 Goals: World peace
 - 📷 Hobby: I love to taking picture
