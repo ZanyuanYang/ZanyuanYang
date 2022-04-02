@@ -1,9 +1,7 @@
-<div>
+<img align="right" src="https://user-images.githubusercontent.com/59616360/161402852-83573084-e896-4ed0-b3e3-60940bea41f6.png" width="380" height="380" />
 
 ### <div align="top"><img src="https://user-images.githubusercontent.com/59616360/161402765-f2331137-4068-4a3b-ac32-980d0382b0c1.gif" width="50" height="50" /> Hi there, I'm Zanyuan Yang - [杨赞远][website] </div>
-  
- <img align="right" src="https://user-images.githubusercontent.com/59616360/161402852-83573084-e896-4ed0-b3e3-60940bea41f6.png" width="380" height="380" />
-
+ 
 </div>
   
 [![Follow](https://img.shields.io/github/followers/zanyuanyang?label=FOLLOW&style=for-the-badge)](https://github.com/ZanyuanYang)
