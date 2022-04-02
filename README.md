@@ -38,7 +38,7 @@
 <br />
 <br />
 
-### My Github Stats
+### My Github Stats:
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zanyuanyang&show_icons=true&theme=radical" />
   &nbsp;&nbsp;
