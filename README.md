@@ -8,9 +8,9 @@
 [![HitCount](https://img.shields.io/github/watchers/ZanyuanYang/zanyuanyang.github.io?style=for-the-badge)](https://github.com/ZanyuanYang/zanyuanyang.github.io)
 
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student. 
-- 🏫 Currently pursuing an MSCS at [Northeastern University][neuwebsite]!
+- 🏫 Currently pursuing MSCS at [Northeastern University][neuwebsite]!
 - 🖥 I’m major in Computer Science 
-- 🛎 2021 Goals: World peace
+- 🛎 2022 Goals: World peace
 - 📷 Hobby: I love to taking picture
 
 ### Contact:
