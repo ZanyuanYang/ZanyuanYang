@@ -6,7 +6,6 @@
 </div>
   
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZanyuanYang&left_color=grey&right_color=blue)](https://github.com/ZanyuanYang)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=zanyuanyang.github.io&left_color=grey&right_color=blue&left_text=Portfolio)](https://github.com/ZanyuanYang/zanyuanyang.github.io)
 
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student. 
 - 🏫 Currently pursuing MSCS at [Northeastern University][neuwebsite]!
