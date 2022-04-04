@@ -5,8 +5,8 @@
  
 </div>
   
-[![Follow](https://img.shields.io/github/followers/zanyuanyang?label=FOLLOW&style=for-the-badge)](https://github.com/ZanyuanYang)
-[![HitCount](https://img.shields.io/github/watchers/ZanyuanYang/zanyuanyang.github.io?style=for-the-badge)](https://github.com/ZanyuanYang/zanyuanyang.github.io)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZanyuanYang&left_color=grey&right_color=blue)](https://github.com/ZanyuanYang)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=zanyuanyang.github.io&left_color=grey&right_color=blue&left_text=Portfolio)](https://github.com/ZanyuanYang/zanyuanyang.github.io)
 
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student. 
 - 🏫 Currently pursuing MSCS at [Northeastern University][neuwebsite]!
