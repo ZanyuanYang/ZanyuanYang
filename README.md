@@ -15,10 +15,10 @@
 
 ### Contact:
 
-[<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://user-images.githubusercontent.com/59616360/161403428-d1ad9b9c-3240-423c-a1bf-bd89dc8cc3c8.gif"/>][instagram]
-[<img align="left" alt="Zanyuan's linkedin" width="28px" src="https://user-images.githubusercontent.com/59616360/161403359-5e3fe19a-62b3-4d44-b5fd-10440dbda6a9.gif"/>][linkedin]
-[<img align="left" alt="profolio" width="28px" src="https://user-images.githubusercontent.com/59616360/161403312-ebb65774-15f7-42c4-93bd-220380585a7a.gif"/>][website]
-<a align="left" href="mailto:zayang@ucsd.com"><img width="26px" src="https://user-images.githubusercontent.com/59616360/161403288-20eeb693-29e9-48ad-82ba-6a5382935ffe.gif"/></a>
+[<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/ios-filled/28/undefined/instagram-new--v1.png"/>][instagram]
+[<img align="left" alt="Zanyuan's linkedin" width="28px" src="https://img.icons8.com/ios-filled/50/undefined/linkedin-circled--v1.png"/>][linkedin]
+[<img align="left" alt="profolio" width="28px" src="https://img.icons8.com/ios-glyphs/28/undefined/test-account.png"/>][website]
+<a align="left" href="mailto:zayang@ucsd.com"><img width="28px" src="https://img.icons8.com/ios-glyphs/30/undefined/new-post.png"/></a>
 <br />
 
 ### Languages and Tools:
