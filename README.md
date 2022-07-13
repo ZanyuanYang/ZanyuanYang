@@ -43,7 +43,7 @@
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zanyuanyang&show_icons=true&theme=radical" />
   &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanyuanyang&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanyuanyang&layout=compact"  />
 </div>
 
 
