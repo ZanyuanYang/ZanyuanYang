@@ -9,8 +9,8 @@
 
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student. 
 - 🏫 Currently pursuing MSCS at [Northeastern University][neuwebsite]!
-- 🖥 I’m major in Computer Science 
-- 🛎 2022 Goals: World peace
+- 🖥 I major in Computer Science 
+- 🛎 2023 Goals: World peace
 - 📷 Hobby: I love to taking picture
 
 ### Contact:
