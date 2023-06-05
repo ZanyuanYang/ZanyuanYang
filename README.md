@@ -8,7 +8,7 @@
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZanyuanYang&left_color=grey&right_color=blue)](https://github.com/ZanyuanYang)
 
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student. 
-- 🏫 Currently pursuing MSCS at [Northeastern University][neuwebsite]!
+- 🏫 Recently, I have completed my MSCS at [Northeastern University][neuwebsite]!
 - 🖥 I major in Computer Science 
 - 🛎 2023 Goals: World peace
 - 📷 Hobby: I love to taking picture
