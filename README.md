@@ -35,8 +35,6 @@
 <img align="left" alt="docker" width="26px" src="https://img.icons8.com/fluency/26/000000/docker.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/26/000000/git.png"/> -->
 
-<br />
-<br />
 
 ### My Github Stats:
 <div>
