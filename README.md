@@ -7,10 +7,9 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZanyuanYang&left_color=grey&right_color=blue)](https://github.com/ZanyuanYang)
 
-- 🏫 I was an [UCSD][ucsdwebsite] alumni student.
-- 🏫 Recently, I have completed my MSCS at [Northeastern University][neuwebsite]!
-- 🖥 I major in Computer Science
-- 🛎 2023 Goals: World peace
+- 🏫 I was an [UCSD][ucsdwebsite] alumni student, also a [Northeastern University][neuwebsite] alumni student!
+- 🖥 I major in Computer Science.
+- 🏗️ Founder of [PresetAI][presetai]
 - 📷 Hobby: I love to taking picture
 
 ### Contact:
@@ -18,7 +17,7 @@
 [<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/ios-filled/28/undefined/instagram-new--v1.png"/>][instagram]
 [<img align="left" alt="Zanyuan's linkedin" width="28px" src="https://img.icons8.com/ios-filled/50/undefined/linkedin-circled--v1.png"/>][linkedin]
 [<img align="left" alt="profolio" width="28px" src="https://img.icons8.com/ios-glyphs/28/undefined/test-account.png"/>][website]
-<a align="left" href="mailto:zayang@ucsd.com"><img width="28px" src="https://img.icons8.com/ios-glyphs/30/undefined/new-post.png"/></a>
+<a align="left" href="mailto:jayingyoung@gmail.com"><img width="28px" src="https://img.icons8.com/ios-glyphs/30/undefined/new-post.png"/></a>
 <br />
 
 <!-- ### Languages and Tools:
@@ -52,7 +51,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zanyuanyang/zanyuanyang/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+[presetai]: https://thepresetai.com/
 [website]: https://zanyuanyang.github.io/
 [ucsdwebsite]: https://ucsd.edu/
 [neuwebsite]: https://www.northeastern.edu/
