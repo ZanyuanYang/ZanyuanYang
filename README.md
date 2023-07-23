@@ -2,14 +2,14 @@
 
 
 ### <div align="top"><img src="https://user-images.githubusercontent.com/59616360/161402765-f2331137-4068-4a3b-ac32-980d0382b0c1.gif" width="50" height="50" /> Hi there, I'm Zanyuan Yang - [杨赞远][website] </div>
- 
+
 </div>
-  
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZanyuanYang&left_color=grey&right_color=blue)](https://github.com/ZanyuanYang)
 
-- 🏫 I was an [UCSD][ucsdwebsite] alumni student. 
+- 🏫 I was an [UCSD][ucsdwebsite] alumni student.
 - 🏫 Recently, I have completed my MSCS at [Northeastern University][neuwebsite]!
-- 🖥 I major in Computer Science 
+- 🖥 I major in Computer Science
 - 🛎 2023 Goals: World peace
 - 📷 Hobby: I love to taking picture
 
@@ -45,6 +45,12 @@
   &nbsp;&nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanyuanyang&layout=compact"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zanyuanyang/zanyuanyang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zanyuanyang/zanyuanyang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zanyuanyang/zanyuanyang/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 [website]: https://zanyuanyang.github.io/
