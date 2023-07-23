@@ -21,7 +21,7 @@
 <a align="left" href="mailto:zayang@ucsd.com"><img width="28px" src="https://img.icons8.com/ios-glyphs/30/undefined/new-post.png"/></a>
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -34,7 +34,7 @@
 <img align="left" alt="react" width="26px" src="https://img.icons8.com/office/26/000000/react.png" />
 <img align="left" alt="aws" width="26px" src="https://img.icons8.com/color/26/000000/amazon-web-services.png" />
 <img align="left" alt="docker" width="26px" src="https://img.icons8.com/fluency/26/000000/docker.png" />
-<img align="left" alt="git" width="26px" src="https://img.icons8.com/color/26/000000/git.png"/>
+<img align="left" alt="git" width="26px" src="https://img.icons8.com/color/26/000000/git.png"/> -->
 
 <br />
 <br />
