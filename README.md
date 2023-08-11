@@ -1,11 +1,10 @@
 <img align="right" src="https://user-images.githubusercontent.com/59616360/161450162-e8fbd8f2-a122-4d9f-b6a8-b4a2fc20ebba.png" width="380" height="380" />
 
 
-### <div align="top"><img src="https://user-images.githubusercontent.com/59616360/161402765-f2331137-4068-4a3b-ac32-980d0382b0c1.gif" width="50" height="50" /> Hi there, I'm Zanyuan Yang - [杨赞远][website] </div>
+### <div align="top"><img src="https://user-images.githubusercontent.com/59616360/161402765-f2331137-4068-4a3b-ac32-980d0382b0c1.gif" width="50" height="50" /> Hi there, I'm Zanyuan Yang</div>
 
 </div>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZanyuanYang&left_color=grey&right_color=blue)](https://github.com/ZanyuanYang)
 
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student, also a [Northeastern University][neuwebsite] alumni student!
 - 🖥 I major in Computer Science.
