@@ -10,7 +10,6 @@
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student, also a [Northeastern University][neuwebsite] alumni student!
 - 🖥 I major in Computer Science.
 - 🏗️ Founder of [PresetAI][presetai]
-- 📷 Hobby: I love to taking picture
 
 ### Contact:
 
