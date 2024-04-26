@@ -10,13 +10,10 @@
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student, also a [Northeastern University][neuwebsite] alumni student!
 - 🖥 I major in Computer Science.
 - 🏗️ Founder of [PresetAI][presetai]
+- 🧑🏻‍💻 Team member of [Suiet dev team][suite]
+- 📪 Reach out: <a align="left" href="mailto:jayingyoung@gmail.com">jayingyoung@gmail.com</a> | [Linkedin][linkedin]
+- 📸 Portrait and Street Photographer: [Instagram][instagram]
 
-### Contact:
-
-[<img align="left" alt="Zanyuan's Instagram" width="26px" src="https://img.icons8.com/ios-filled/28/undefined/instagram-new--v1.png"/>][instagram]
-[<img align="left" alt="Zanyuan's linkedin" width="28px" src="https://img.icons8.com/ios-filled/50/undefined/linkedin-circled--v1.png"/>][linkedin]
-[<img align="left" alt="profolio" width="28px" src="https://img.icons8.com/ios-glyphs/28/undefined/test-account.png"/>][website]
-<a align="left" href="mailto:jayingyoung@gmail.com"><img width="28px" src="https://img.icons8.com/ios-glyphs/30/undefined/new-post.png"/></a>
 <br />
 
 <!-- ### Languages and Tools:
@@ -48,6 +45,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zanyuanyang/zanyuanyang/output/github-contribution-grid-snake.svg">
 </picture>
 
+[suite]: https://github.com/suiet
 [presetai]: https://thepresetai.com/
 [website]: https://zanyuanyang.github.io/
 [ucsdwebsite]: https://ucsd.edu/
