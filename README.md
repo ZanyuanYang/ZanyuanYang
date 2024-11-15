@@ -9,7 +9,6 @@
 
 - 🏫 I was an [UCSD][ucsdwebsite] alumni student, also a [Northeastern University][neuwebsite] alumni student!
 - 🖥 I major in Computer Science.
-- 🏗️ Founder of [PresetAI][presetai]
 - 🧑🏻‍💻 Team member of [Suiet dev team][suite]
 - 📪 Reach out: <a align="left" href="mailto:jayingyoung@gmail.com">jayingyoung@gmail.com</a> | [Linkedin][linkedin]
 - 📸 Portrait and Street Photographer: [Instagram][instagram]
